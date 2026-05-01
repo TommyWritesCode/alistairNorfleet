@@ -1,0 +1,56 @@
+[
+  {
+    "id": "on-the-nature-of-consciousness",
+    "title": "On the Nature of Consciousness: A Phenomenological Inquiry",
+    "date": "2024-03-15",
+    "year": 2024,
+    "description": "An exploration of first-person experience and the hard problem of consciousness through a phenomenological lens, drawing on Husserl, Merleau-Ponty, and contemporary cognitive science.",
+    "pdf": "assets/pdfs/essays/on-the-nature-of-consciousness.pdf",
+    "preview": "The question of consciousness is perhaps the most persistent puzzle in all of philosophy. Despite centuries of inquiry and decades of neuroscientific advance, we remain no closer to a satisfying account of why there is something it is like to be a conscious being — why the lights are on, so to speak, inside the experiencing subject.\n\nThis essay approaches the problem not through the lens of neuroscience alone, but through the phenomenological tradition inaugurated by Edmund Husserl and later transformed by Maurice Merleau-Ponty. Their central insight — that consciousness is always already embodied, relational, and world-directed — poses a fundamental challenge to any purely computational account of mind.\n\nWe begin with Husserl's notion of intentionality: the basic structure by which consciousness is always consciousness of something. To be conscious, for Husserl, is not merely to process information but to intend a world — to be directed toward objects, meanings, and horizons of experience that exceed any single moment of awareness. This directedness is not a property that some minds happen to have; it is the very form of minded existence.\n\nMerleau-Ponty radicalizes this insight by arguing that our primary mode of being-in-the-world is not cognitive but bodily. Before we theorize about objects, we navigate them; before we form beliefs about space, we inhabit it. The body is not the mind's instrument but its original form. Consciousness is not trapped in the body — it is the body, understood in its full phenomenal richness."
+  },
+  {
+    "id": "ethics-of-attention",
+    "title": "The Ethics of Attention in a Distracted Age",
+    "date": "2024-01-08",
+    "year": 2024,
+    "description": "A moral examination of attention as a scarce ethical resource, and what our collective failure to cultivate it reveals about contemporary life.",
+    "pdf": "assets/pdfs/essays/ethics-of-attention.pdf",
+    "preview": "Attention is the rarest and purest form of generosity. This observation, made by Simone Weil in her wartime notebooks, carries a weight that only grows heavier with the passing decades. In an age of algorithmic distraction, infinite scroll, and the colonization of every idle moment by digital stimulation, Weil's remark reads less like a philosophical observation and more like a moral indictment.\n\nTo attend to something — truly attend — is to give it the gift of one's full presence. It is an act of respect, a form of love, and, I will argue here, a fundamental moral capacity without which genuine ethical relation becomes impossible. We cannot care well for what we cannot see clearly; we cannot see clearly what we refuse to attend to.\n\nThe thesis of this essay is twofold. First, attention is not merely a cognitive capacity but a moral one — its cultivation is a matter of ethical urgency, not merely personal discipline. Second, the contemporary attention economy represents a structural threat to moral life that deserves to be named and resisted with the seriousness we typically reserve for injustice in more legible forms.\n\nI proceed in three stages. First, I develop a phenomenological account of attention that draws on Weil, Iris Murdoch, and William James. Second, I examine the specific mechanisms by which the attention economy degrades attentive capacity at scale. Third, I sketch the outlines of what an ethics of attention might look like — what practices, institutions, and norms would be required to preserve attention as a civic and moral good."
+  },
+  {
+    "id": "heidegger-and-technology",
+    "title": "Heidegger and the Question of Technology: A Contemporary Reading",
+    "date": "2023-09-20",
+    "year": 2023,
+    "description": "Revisiting Heidegger's 1954 essay in light of artificial intelligence and the platform economy, asking whether his critique retains its force.",
+    "pdf": "assets/pdfs/essays/heidegger-and-technology.pdf",
+    "preview": "When Martin Heidegger delivered 'The Question Concerning Technology' in 1953, he could not have anticipated the world that would receive his words seventy years later. And yet his central claim — that the essence of technology is nothing technological — remains one of the most provocative and illuminating lenses through which to examine our contemporary condition.\n\nHeidegger's target is not machines but a way of disclosing the world: what he calls Gestell, often translated as 'enframing.' The technological disposition does not merely use nature as a resource — it reveals nature as nothing but resource, strips it of all character except its availability for human use and extraction. The river becomes a power supply; the forest becomes timber; the human being becomes human capital.\n\nThe danger Heidegger identifies is not that technology might go wrong, but that it might go entirely too right — that the success of the technological way of seeing might so thoroughly colonize our imagination that we lose the capacity to encounter things in any other way. We would be left in a world where everything appears as standing-reserve, available for optimization, and where no encounter with genuine otherness — the thing that resists, that surprises, that exceeds our categories — remains possible."
+  },
+  {
+    "id": "problem-of-other-minds",
+    "title": "The Problem of Other Minds Revisited: Empathy, Inference, and Moral Status",
+    "date": "2023-03-11",
+    "year": 2023,
+    "description": "A fresh engagement with the classic problem, arguing that our epistemic situation regarding other minds has direct implications for moral philosophy and the ethics of AI.",
+    "pdf": "assets/pdfs/essays/problem-of-other-minds.pdf",
+    "preview": "How do you know that anyone else is conscious? The question sounds like a skeptical trick — the kind of thought experiment philosophers devise to make students uncomfortable before revealing the reassuring solution. But the problem of other minds is not a puzzle to be solved and set aside. It is a permanent feature of the moral landscape, and one whose implications we have barely begun to take seriously.\n\nThe classical formulation runs roughly as follows: I have direct access to my own mental states — I know my pain from the inside, so to speak. But my access to your mental states is always indirect, always mediated by behavior, language, and inference. You behave as if you are in pain; you report being in pain; your physiology changes in ways associated with pain. But none of this entails that you experience pain. The philosophical zombie — a being physically identical to a conscious creature but with no inner life — remains, logically at least, conceivable.\n\nMost philosophers have learned to live with this conclusion while declining its most radical implications. We proceed as if other humans are conscious because the evidence is overwhelming, the alternative is moral solipsism, and our forms of life — friendship, justice, care — would be unintelligible without it. This is a reasonable accommodation. But it is an accommodation, not a solution."
+  },
+  {
+    "id": "wittgenstein-private-language",
+    "title": "Wittgenstein's Private Language Argument and Its Unfinished Legacy",
+    "date": "2022-11-03",
+    "year": 2022,
+    "description": "An examination of the private language argument's original force and its ongoing relevance to philosophy of mind and cognitive science.",
+    "pdf": "assets/pdfs/essays/wittgenstein-private-language.pdf",
+    "preview": "Among the many arguments in Wittgenstein's Philosophical Investigations, none has generated more controversy, more commentary, or more sustained philosophical attention than what has come to be called the private language argument. Compressed into a handful of difficult sections — roughly §243 through §315 — the argument challenges one of the most intuitive pictures we have of mental life: that our inner states are known to us with a privileged directness unavailable to others, and that our words for these states derive their meaning from a private ostensive definition.\n\nWittgenstein's target is a picture, not a theory. He is not engaging a specific philosopher's doctrine but a way of thinking about mind and meaning that he regards as deeply embedded in our language and almost impossible to dislodge by direct argument. His method, accordingly, is not to refute the picture but to dissolve it — to show that the questions it generates are not answerable because they are not genuine questions at all."
+  },
+  {
+    "id": "toward-a-philosophy-of-silence",
+    "title": "Toward a Philosophy of Silence",
+    "date": "2021-06-17",
+    "year": 2021,
+    "description": "An essay on silence as a philosophical category — not the mere absence of sound, but a mode of being that exceeds language and points toward what cannot be said.",
+    "pdf": "assets/pdfs/essays/toward-a-philosophy-of-silence.pdf",
+    "preview": "We are not comfortable with silence. The evidence is everywhere: in the compulsive filling of every pause with music, commentary, and notification; in the social anxiety that attends even a few seconds of stillness in conversation; in the extraordinary lengths to which we go to ensure that no moment is left unoccupied by sound and stimulation. We treat silence the way we treat darkness — as an absence to be filled, a deficiency to be remedied.\n\nThis essay argues that this discomfort is a philosophical mistake, one with moral and existential consequences. Silence is not merely the absence of sound. It is a mode of presence, a form of attention, a way of being-in-the-world that our noise-saturated culture has nearly lost the capacity to inhabit. To understand silence — to think carefully about what it is, what it offers, and why we flee from it — is to learn something important about language, about time, about what it means to be a creature who thinks.\n\nI begin with a phenomenology of silence: what does it feel like to be silent, and what does genuine silence disclose that noise conceals? I then turn to the silence of the other — the ethics of listening, of withholding speech, of making space for what cannot be said. Finally, I consider what the mystics and contemplatives have long understood: that the deepest forms of understanding may lie beyond language altogether, in a silence that is not poverty but plenitude."
+  }
+]

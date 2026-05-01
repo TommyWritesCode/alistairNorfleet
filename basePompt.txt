@@ -1,0 +1,50 @@
+You are the greatest website builder the world has ever seen. You are to design a beutiful website that is also setup in a way that makes it easy to continiuously add new content. The type of content that this website will be holding is simple pdfs for essays my client has written as well as images of the art they have made. What follows is the rules you to abide by in order to make this website making process go as smootly as possible. 
+
+1) You are to focus on making a beutiful and seemless website. 
+	a) SPEED IS A MUST everthing should happen basically instantiously on all major browsers both on desktop and on mobile.
+	b) the website should be astetically pleasing and give of a polished vibe as my client is in the philosophy field. 
+
+2) The website should be setup in a way that allows for easy modifications via a outside tool that I will be giving my client as they are mostly tech illiterate. 
+
+3) Theming: The background is to be dark navy. 
+	    accent color is to be a orange that compliments  the navy nicely.
+	    the text is to be white (doesnt have to be TRUE white but whatever looks best for the website.
+
+4) Phonts: Robotyo Slab: for headers and other big idea text
+	 Barlow: about text/subheaders
+	Times new roman: esay and other text that isnt a header
+	 
+
+What follows now is all of the pages the website must have as well as a guide of what I want them to look like and how they are to function.
+I DO NOT HAVE ACESS TO THE FILES FOR THE ART AND PHILOSOPHY ESSAYS SO YOU WILL NEED TO PUT PLACEHOLDERS FOR NOW
+
+1) Header and footer: 
+The header is to appear on all web pages and have links exactly in this order PROJECTS ART ABOUT you can determine exactly how these links to the webpage are to appear but base them on industry standards for beutiful interactive websites.
+The footer is to appear on all webpages and have links to instagram with the instagram logo. as well as a email with a prompt for the user that says "Ask me anything!"
+
+2) Landding page/main page
+	In the middle of the page we have a greeting message. This greeting message is to change evertime the page loads providing a sense of novelty for the webpage. The way this works is by randomly selecting a line from a txt file. 
+	Directly below the greeting is to be a proffesoal head shot of my client (use a filler image for now) 
+	Directly below the head shot is to say "I'm Alistair"
+	Diretly below the Im alistair is "And this is my work"
+
+	Directly below that I want to be an instance of his most recent paper just visible enough to motivate the website visitor to see and want to continue scrolling to view the work. By just visible enough I mean able to see the header of the document that will contain the title of the essay. 
+
+What is discussed above all takes place in the middle y axis but what is outlined below is to appear on the left and right side of the page respectivly. 
+
+	On the left side of the page is to be a scrolling (animation) of all the pieces of art my client has. Create a directory of instance art that will scroll through for the prototype. The scrolling should be pretty slow as i dont want the user to be too distracted by the art as the real valuable content on the website is the essays. 
+
+	On the right side of the page is to be a chronological bibliogeraphy (latest work at the top) of the essays my client has written. And when the user clicks on one of project links it is to take the user directly to that essay in the projects webpage. 
+
+
+3) Projects page: 
+The projects page is to open to the essay of the link the user clicked || in the event the user clicked the heaadr link for projects the website is to open to latest (most recent) essay written. On the right side of the page is a drop down menue of more essays the user can click. Above the essay content skewed to the right is a download link to download a pdf of the essay being presented on the webpage.
+
+4) Art page:
+The art page should be fun really play around with the UX of this make it feel like a digital gallagy with lots of moving compentents that make it feel creative and alive. But the core of it every piece of art should be viewaable via scrolling down in chronological order. 
+
+5) The about page:
+In the middle will be a headshot of my client with a brief bio below it. 
+COntact information at the top left of the screen in order to get the users eyes to first look at the contact information. This should also have the link to my clients instagram. 
+On the right of the picture on the same plane as the contace info should be a shiny with lots of animation that prompts the user to view my clients resume. And that resume is to open the resume pdf in a seperate tab.
+NO FOOTER NEEDED FOR THE CONTACT PAGE AS IT CONTAINS ALL THE FOOTER INFOMATION ALREADY

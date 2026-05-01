@@ -1,0 +1,90 @@
+[
+  {
+    "id": "midnight-harbor",
+    "title": "Midnight Harbor",
+    "year": 2024,
+    "medium": "Oil on canvas",
+    "dimensions": "24 × 36 in",
+    "image": "assets/images/art/midnight-harbor.jpg",
+    "placeholder": "linear-gradient(135deg, #070d1c 0%, #0e1e3d 35%, #182f66 58%, #091526 100%)",
+    "description": "A meditation on stillness and depth, rendered in layers of deep blue and shadow.",
+    "size": "large"
+  },
+  {
+    "id": "ember-and-ash",
+    "title": "Ember and Ash",
+    "year": 2024,
+    "medium": "Acrylic and charcoal",
+    "dimensions": "18 × 24 in",
+    "image": "assets/images/art/ember-and-ash.jpg",
+    "placeholder": "linear-gradient(155deg, #180800 0%, #3d1508 28%, #7a3010 52%, #c45818 72%, #280d04 100%)",
+    "description": "Warm chaos held at the edge of dissolution — fire remembered after the fact.",
+    "size": "portrait"
+  },
+  {
+    "id": "the-veil",
+    "title": "The Veil",
+    "year": 2023,
+    "medium": "Watercolor on paper",
+    "dimensions": "16 × 20 in",
+    "image": "assets/images/art/the-veil.jpg",
+    "placeholder": "linear-gradient(120deg, #16082a 0%, #2a1055 38%, #48189a 62%, #1c0835 100%)",
+    "description": "Between what is seen and what is known, the veil neither hides nor reveals — it mediates.",
+    "size": "standard"
+  },
+  {
+    "id": "verdant-mind",
+    "title": "Verdant Mind",
+    "year": 2023,
+    "medium": "Oil on linen",
+    "dimensions": "30 × 30 in",
+    "image": "assets/images/art/verdant-mind.jpg",
+    "placeholder": "linear-gradient(140deg, #051210 0%, #0c2c1e 32%, #185538 55%, #267a48 74%, #091c14 100%)",
+    "description": "Thought rendered as landscape — the lush interior of an idea taking root.",
+    "size": "large"
+  },
+  {
+    "id": "stillness-no-3",
+    "title": "Stillness No. 3",
+    "year": 2022,
+    "medium": "Graphite on paper",
+    "dimensions": "12 × 16 in",
+    "image": "assets/images/art/stillness-no-3.jpg",
+    "placeholder": "linear-gradient(175deg, #0a0a0a 0%, #181818 28%, #2a2a2a 56%, #141414 100%)",
+    "description": "The third in a series on absence — what remains when everything is stripped away.",
+    "size": "portrait"
+  },
+  {
+    "id": "dissolution",
+    "title": "Dissolution",
+    "year": 2022,
+    "medium": "Ink and gold leaf",
+    "dimensions": "20 × 28 in",
+    "image": "assets/images/art/dissolution.jpg",
+    "placeholder": "linear-gradient(108deg, #040e1d 0%, #092038 28%, #1a3870 60%, #285a9a 76%, #08182e 100%)",
+    "description": "A figure coming apart at the edges — or perhaps coming together. The distinction collapses.",
+    "size": "standard"
+  },
+  {
+    "id": "recursion",
+    "title": "Recursion",
+    "year": 2021,
+    "medium": "Digital print on archival paper",
+    "dimensions": "24 × 24 in",
+    "image": "assets/images/art/recursion.jpg",
+    "placeholder": "linear-gradient(88deg, #1c0800 0%, #481200 20%, #8a2c00 38%, #e0601c 54%, #481200 72%, #1c0800 100%)",
+    "description": "The structure that contains itself — each frame revealing the one that holds it.",
+    "size": "large"
+  },
+  {
+    "id": "the-ground",
+    "title": "The Ground",
+    "year": 2020,
+    "medium": "Mixed media on wood panel",
+    "dimensions": "18 × 36 in",
+    "image": "assets/images/art/the-ground.jpg",
+    "placeholder": "linear-gradient(162deg, #181005 0%, #281804 24%, #3a2210 48%, #4a3218 70%, #281505 100%)",
+    "description": "Earth as metaphysics: what we stand on is also what we stand within.",
+    "size": "wide"
+  }
+]

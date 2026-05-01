@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Essays by Alistair Norfleet — Philosophy of mind, ethics, language, and technology.">
+  <title>Projects — Alistair Norfleet</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500;700&family=Barlow:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <!-- ── HEADER ────────────────────────────────────────────── -->
+  <header class="site-header" role="banner">
+    <a href="index.html" class="header-logo" aria-label="Alistair Norfleet — Home">AN</a>
+    <nav class="header-nav" aria-label="Main navigation">
+      <a href="projects.html" class="nav-link active">Projects</a>
+      <a href="art.html"      class="nav-link">Art</a>
+      <a href="about.html"    class="nav-link">About</a>
+    </nav>
+    <button class="hamburger" aria-label="Toggle menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </header>
+
+  <nav class="mobile-nav" aria-label="Mobile navigation">
+    <a href="projects.html" class="nav-link">Projects</a>
+    <a href="art.html"      class="nav-link">Art</a>
+    <a href="about.html"    class="nav-link">About</a>
+  </nav>
+
+  <!-- ── PROJECTS LAYOUT ───────────────────────────────────── -->
+  <div class="projects-layout page-enter">
+
+    <!-- Main essay display -->
+    <main class="projects-main" role="main" aria-label="Essay content">
+
+      <!-- Download button (right-aligned, above essay) -->
+      <div class="projects-top-bar">
+        <a class="download-btn"
+           href="#"
+           download
+           aria-label="Download this essay as PDF"
+           title="Download PDF">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/>
+          </svg>
+          Download PDF
+        </a>
+      </div>
+
+      <!-- PDF iframe (hidden until real PDF available) -->
+      <iframe
+        class="essay-pdf-frame"
+        id="essayFrame"
+        title="Essay PDF viewer"
+        aria-label="Essay PDF viewer">
+      </iframe>
+
+      <!-- HTML document fallback / placeholder -->
+      <article class="essay-document" id="essayDocument" aria-live="polite">
+        <!-- Populated by projects.js -->
+      </article>
+
+    </main>
+
+    <!-- Right sidebar: essay list -->
+    <aside class="projects-sidebar" aria-label="All essays">
+      <div class="sidebar-label">All Essays</div>
+      <nav id="essayList" aria-label="Essay list">
+        <!-- Populated by projects.js -->
+      </nav>
+    </aside>
+
+  </div>
+
+  <!-- ── FOOTER ────────────────────────────────────────────── -->
+  <footer class="site-footer" role="contentinfo"></footer>
+
+  <script src="js/main.js"></script>
+  <script src="js/projects.js"></script>
+</body>
+</html>
