@@ -131,7 +131,7 @@ function initFooter() {
       <span>Instagram</span>
     </a>
     <div class="footer-divider" aria-hidden="true"></div>
-    <a href="mailto:alistair@example.com" class="footer-link" aria-label="Send an email">
+    <a href="mailto:alistairnorfleet@gmail.com" class="footer-link" aria-label="Send an email">
       ${EMAIL_SVG}
       <span>Ask me anything!</span>
     </a>

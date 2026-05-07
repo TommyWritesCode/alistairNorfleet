@@ -1,7 +1,0 @@
-Place Alistair's professional headshot photo here and name it:
-
-  headshot.jpg
-
-It will appear on the landing page and the About page.
-Recommended: Square crop, at least 400×400px, JPG or PNG.
-(PNG also works — just update the src in index.html and about.html)

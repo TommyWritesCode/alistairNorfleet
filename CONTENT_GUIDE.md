@@ -100,7 +100,7 @@ Add as many lines as you like. Keep each greeting on its own line.
 
 ## Updating Contact Information
 
-To change the email address or Instagram handle, search for `alistair@example.com`
+To change the email address or Instagram handle, search for `alistairnorfleet@gmail.com`
 and `@alistnorfleet` in the HTML files (`about.html`, `js/main.js`) and update them.
 
 ---

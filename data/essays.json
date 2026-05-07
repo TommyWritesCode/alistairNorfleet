@@ -1,56 +1,110 @@
 [
   {
-    "id": "on-the-nature-of-consciousness",
-    "title": "On the Nature of Consciousness: A Phenomenological Inquiry",
-    "date": "2024-03-15",
+    "id": "policy-memo",
+    "title": "Policy Memo: Road-Based Standards and the Transition to Autonomous Vehicles",
+    "date": "2026-01-15",
+    "year": 2026,
+    "description": "A policy memo addressing the NHTSA's deregulation of motor vehicle safety standards in preparation for highly automated vehicles.",
+    "pdf": "assets/pdfs/essays/policy-memo.pdf",
+    "preview": "In accordance with the NHTSA's mission to deregulate motor vehicle safety regulations and usher in an age of HAV prosperity, the agency ought to review — and perhaps retire — road-based standards within what is currently a primarily vehicle-oriented regulatory framework. While car-centric infrastructure initially supported the widespread adoption of personal vehicles — and the ability for individuals to operate them — this approach has since created lasting hindrances to the NHTSA's ability to establish a tech-neutral performance standard."
+  },
+  {
+    "id": "feminist-theory",
+    "title": "Schrödinger's Woman: Essentialism and Modern Feminism",
+    "date": "2025-12-10",
+    "year": 2025,
+    "description": "An examination of gender essentialism and the ongoing debates within second and third-wave feminism.",
+    "pdf": "assets/pdfs/essays/feminist-theory.pdf",
+    "preview": "For many, life is a process of fitting experiences into boxes. These boxes are compartmentalized and eventually become ideas, then beliefs. Educators and public figures can change these beliefs to an extent, yet these foundational experiences of thought can define the way individuals approach the world. In the context of gender studies, second and third-wave feminists frequently debated the value of 'gender essentialism,' or a unifying definition of 'woman.' Simone de Beauvoir is frequently cited: 'One is not born, but becomes a woman.' This quote began the modern distinction between sex and gender."
+  },
+  {
+    "id": "kiezconnect-final-paper",
+    "title": "Demokratie für Alle? A More Efficient Democracy",
+    "date": "2025-06-01",
+    "year": 2025,
+    "description": "A comprehensive analysis of economic strategies, taxation, privatization, and the logistics of building a more efficient democracy.",
+    "pdf": "assets/pdfs/essays/kiezconnect-final-paper.pdf",
+    "preview": "This paper explores the foundations of democratic efficiency through the lens of tried and failed economic strategies. Beginning with an examination of investment options available to the average consumer — from banks and private equity to public funds — it moves through detailed taxation comparisons across the US, UK, and Germany, and analyzes privatization trends and their relationship to polarization and partisanship."
+  },
+  {
+    "id": "presentation-logistics",
+    "title": "Logistics of a More Efficient Democracy",
+    "date": "2025-04-15",
+    "year": 2025,
+    "description": "A presentation exploring the logistical framework for building healthier democratic systems.",
+    "pdf": "assets/pdfs/essays/presentation-logistics.pdf",
+    "preview": "'I know what you're thinking about,' said Tweedle-dum, 'But it ain't so, nohow.' 'Contrariwise,' continued Tweedledee, 'if it was so, it might be; and if it were so, it would be; but as it isn't, it ain't. That's logic.' — Lewis Carroll. This presentation lays out the markers of a healthy democracy, a mission statement for democratic reform, and a peer analysis of normative democratic movements."
+  },
+  {
+    "id": "presentation-kiezconnect",
+    "title": "KIEZconnect: Workshop Presentation",
+    "date": "2025-03-01",
+    "year": 2025,
+    "description": "A workshop presentation developing the KIEZconnect initiative for democratic engagement.",
+    "pdf": "assets/pdfs/essays/presentation-kiezconnect.pdf",
+    "preview": "This workshop presentation outlines the conceptual framework and community engagement strategy behind the KIEZconnect initiative, a project aimed at strengthening democratic participation at the local level."
+  },
+  {
+    "id": "feminist-compass",
+    "title": "The Feminist Compass",
+    "date": "2025-02-10",
+    "year": 2025,
+    "description": "A proposed analytical tool for mapping feminist positions, grounded in Pascoe's framework of masculinity and critiques of essentialism.",
+    "pdf": "assets/pdfs/essays/feminist-compass.pdf",
+    "preview": "This piece will progress through four distinct categories. It will begin by describing the utility and context behind a potential feminist compass. The paper will then move to a description of the feminist understanding of masculinity — defined by C.J. Pascoe — which provides the framework within the proposed graph. That description will naturally require a brief overview of key categories within essentialism, coupled with a specific case study of a political movement (Trans Exclusionary Radical Feminists)."
+  },
+  {
+    "id": "ageism-aging-demographics-east-asia",
+    "title": "Ageism at its Breaking Point: Aging Demographics in East Asia",
+    "date": "2024-11-05",
     "year": 2024,
-    "description": "An exploration of first-person experience and the hard problem of consciousness through a phenomenological lens, drawing on Husserl, Merleau-Ponty, and contemporary cognitive science.",
-    "pdf": "assets/pdfs/essays/on-the-nature-of-consciousness.pdf",
-    "preview": "The question of consciousness is perhaps the most persistent puzzle in all of philosophy. Despite centuries of inquiry and decades of neuroscientific advance, we remain no closer to a satisfying account of why there is something it is like to be a conscious being — why the lights are on, so to speak, inside the experiencing subject.\n\nThis essay approaches the problem not through the lens of neuroscience alone, but through the phenomenological tradition inaugurated by Edmund Husserl and later transformed by Maurice Merleau-Ponty. Their central insight — that consciousness is always already embodied, relational, and world-directed — poses a fundamental challenge to any purely computational account of mind.\n\nWe begin with Husserl's notion of intentionality: the basic structure by which consciousness is always consciousness of something. To be conscious, for Husserl, is not merely to process information but to intend a world — to be directed toward objects, meanings, and horizons of experience that exceed any single moment of awareness. This directedness is not a property that some minds happen to have; it is the very form of minded existence.\n\nMerleau-Ponty radicalizes this insight by arguing that our primary mode of being-in-the-world is not cognitive but bodily. Before we theorize about objects, we navigate them; before we form beliefs about space, we inhabit it. The body is not the mind's instrument but its original form. Consciousness is not trapped in the body — it is the body, understood in its full phenomenal richness."
+    "description": "An analysis of declining birth rates in East Asia and the ageist assumptions underlying demographic alarm.",
+    "pdf": "assets/pdfs/essays/ageism-aging-demographics-east-asia.pdf",
+    "preview": "Birth rates in the affluent East Asian countries — including but not limited to South Korea, Japan, and China — are in freefall. Analysts and consultants have taken notice, warning the world that an aging population spells the end of collective prosperity. The claim is that the elderly statistically take more from healthcare and social spending, without currently providing their fair share. The retiree-to-worker ratio has increased rapidly, and this trend is showing no sign of stopping."
   },
   {
-    "id": "ethics-of-attention",
-    "title": "The Ethics of Attention in a Distracted Age",
-    "date": "2024-01-08",
+    "id": "algorithmic-price-fixing",
+    "title": "Competition in an Empty Room: Algorithmic Price Fixing",
+    "date": "2024-09-20",
     "year": 2024,
-    "description": "A moral examination of attention as a scarce ethical resource, and what our collective failure to cultivate it reveals about contemporary life.",
-    "pdf": "assets/pdfs/essays/ethics-of-attention.pdf",
-    "preview": "Attention is the rarest and purest form of generosity. This observation, made by Simone Weil in her wartime notebooks, carries a weight that only grows heavier with the passing decades. In an age of algorithmic distraction, infinite scroll, and the colonization of every idle moment by digital stimulation, Weil's remark reads less like a philosophical observation and more like a moral indictment.\n\nTo attend to something — truly attend — is to give it the gift of one's full presence. It is an act of respect, a form of love, and, I will argue here, a fundamental moral capacity without which genuine ethical relation becomes impossible. We cannot care well for what we cannot see clearly; we cannot see clearly what we refuse to attend to.\n\nThe thesis of this essay is twofold. First, attention is not merely a cognitive capacity but a moral one — its cultivation is a matter of ethical urgency, not merely personal discipline. Second, the contemporary attention economy represents a structural threat to moral life that deserves to be named and resisted with the seriousness we typically reserve for injustice in more legible forms.\n\nI proceed in three stages. First, I develop a phenomenological account of attention that draws on Weil, Iris Murdoch, and William James. Second, I examine the specific mechanisms by which the attention economy degrades attentive capacity at scale. Third, I sketch the outlines of what an ethics of attention might look like — what practices, institutions, and norms would be required to preserve attention as a civic and moral good."
+    "description": "An examination of how algorithms enable tacit collusion and price fixing, challenging Adam Smith's invisible hand.",
+    "pdf": "assets/pdfs/essays/algorithmic-price-fixing.pdf",
+    "preview": "In The Wealth of Nations, Adam Smith used the metaphor of 'an invisible hand' to describe the unintended social benefits of self-interested merchants under certain conditions. Through this metaphor, Smith proposed that self-interested pursuit of profit can unintentionally incentivize efficiency and serve consumers. Modern corporations often invoke his metaphor to suggest that markets can regulate themselves, yet economists continually debate when external regulation is necessary."
   },
   {
-    "id": "heidegger-and-technology",
-    "title": "Heidegger and the Question of Technology: A Contemporary Reading",
-    "date": "2023-09-20",
+    "id": "japanese-economic-miracle",
+    "title": "Efficient Bureaucracy is not an Oxymoron: The Japanese Economic Miracle",
+    "date": "2024-05-12",
+    "year": 2024,
+    "description": "A study of Japan's postwar economic development and the developmental state thesis that redefines capitalist growth theory.",
+    "pdf": "assets/pdfs/essays/japanese-economic-miracle.pdf",
+    "preview": "'Pick yourself up by your bootstraps' is a common expression endorsing capitalist personal responsibility. The phrase represents an impossible task, unless one can manipulate the natural laws of one's environment. Enter: the government. After World War II, Japan's economy advanced at a staggering level: despite atomic devastation, the country developed into one of the world's highest-value economies. Called 'The Japanese Economic Miracle', this period of economic history presents a challenge to the traditional understanding of economic growth."
+  },
+  {
+    "id": "culture-problem-jeffers",
+    "title": "The Culture Problem: Chike Jeffers and Cultural Supremacy",
+    "date": "2024-03-08",
+    "year": 2024,
+    "description": "A critical engagement with Chike Jeffers' cultural constructionism and the difficulties of defining race through culture.",
+    "pdf": "assets/pdfs/essays/culture-problem-jeffers.pdf",
+    "preview": "The social sciences often have difficulty differentiating necessary qualities from sufficient ones — a problem that becomes especially acute in discussions of race. While seemingly innocuous, such ambiguities stymie productive discussions of race through vague attempts at establishing universal definitions for subjective conditions. Such attempts may be more representative of a philosopher's inclination toward a specific topic than a commitment to advancing knowledge."
+  },
+  {
+    "id": "one-naught-use-ought",
+    "title": "One Naught Use 'Ought': An Essay on Hume's A Treatise on Human Nature",
+    "date": "2023-11-15",
     "year": 2023,
-    "description": "Revisiting Heidegger's 1954 essay in light of artificial intelligence and the platform economy, asking whether his critique retains its force.",
-    "pdf": "assets/pdfs/essays/heidegger-and-technology.pdf",
-    "preview": "When Martin Heidegger delivered 'The Question Concerning Technology' in 1953, he could not have anticipated the world that would receive his words seventy years later. And yet his central claim — that the essence of technology is nothing technological — remains one of the most provocative and illuminating lenses through which to examine our contemporary condition.\n\nHeidegger's target is not machines but a way of disclosing the world: what he calls Gestell, often translated as 'enframing.' The technological disposition does not merely use nature as a resource — it reveals nature as nothing but resource, strips it of all character except its availability for human use and extraction. The river becomes a power supply; the forest becomes timber; the human being becomes human capital.\n\nThe danger Heidegger identifies is not that technology might go wrong, but that it might go entirely too right — that the success of the technological way of seeing might so thoroughly colonize our imagination that we lose the capacity to encounter things in any other way. We would be left in a world where everything appears as standing-reserve, available for optimization, and where no encounter with genuine otherness — the thing that resists, that surprises, that exceeds our categories — remains possible."
+    "description": "An analysis of Hume's critique of ethical reasoning and the is-ought problem in moral philosophy.",
+    "pdf": "assets/pdfs/essays/one-naught-use-ought.pdf",
+    "preview": "In A Treatise on Human Nature, Hume analyzes the problems with his ethicist peers to push the study of ethics forward. Hume consistently sought a middle ground for the average person who wanted to understand philosophy. Hume believes that ethicists are in the clouds. While there is beauty in understanding the obscure, the common practice of analyzing every action associated with a concept is less a love for ethics and more a love for the decided concept."
   },
   {
-    "id": "problem-of-other-minds",
-    "title": "The Problem of Other Minds Revisited: Empathy, Inference, and Moral Status",
-    "date": "2023-03-11",
+    "id": "aristotle-paper",
+    "title": "Intellectual Paralysis: A Critique on Aristotle's Life of Virtue",
+    "date": "2023-05-20",
     "year": 2023,
-    "description": "A fresh engagement with the classic problem, arguing that our epistemic situation regarding other minds has direct implications for moral philosophy and the ethics of AI.",
-    "pdf": "assets/pdfs/essays/problem-of-other-minds.pdf",
-    "preview": "How do you know that anyone else is conscious? The question sounds like a skeptical trick — the kind of thought experiment philosophers devise to make students uncomfortable before revealing the reassuring solution. But the problem of other minds is not a puzzle to be solved and set aside. It is a permanent feature of the moral landscape, and one whose implications we have barely begun to take seriously.\n\nThe classical formulation runs roughly as follows: I have direct access to my own mental states — I know my pain from the inside, so to speak. But my access to your mental states is always indirect, always mediated by behavior, language, and inference. You behave as if you are in pain; you report being in pain; your physiology changes in ways associated with pain. But none of this entails that you experience pain. The philosophical zombie — a being physically identical to a conscious creature but with no inner life — remains, logically at least, conceivable.\n\nMost philosophers have learned to live with this conclusion while declining its most radical implications. We proceed as if other humans are conscious because the evidence is overwhelming, the alternative is moral solipsism, and our forms of life — friendship, justice, care — would be unintelligible without it. This is a reasonable accommodation. But it is an accommodation, not a solution."
-  },
-  {
-    "id": "wittgenstein-private-language",
-    "title": "Wittgenstein's Private Language Argument and Its Unfinished Legacy",
-    "date": "2022-11-03",
-    "year": 2022,
-    "description": "An examination of the private language argument's original force and its ongoing relevance to philosophy of mind and cognitive science.",
-    "pdf": "assets/pdfs/essays/wittgenstein-private-language.pdf",
-    "preview": "Among the many arguments in Wittgenstein's Philosophical Investigations, none has generated more controversy, more commentary, or more sustained philosophical attention than what has come to be called the private language argument. Compressed into a handful of difficult sections — roughly §243 through §315 — the argument challenges one of the most intuitive pictures we have of mental life: that our inner states are known to us with a privileged directness unavailable to others, and that our words for these states derive their meaning from a private ostensive definition.\n\nWittgenstein's target is a picture, not a theory. He is not engaging a specific philosopher's doctrine but a way of thinking about mind and meaning that he regards as deeply embedded in our language and almost impossible to dislodge by direct argument. His method, accordingly, is not to refute the picture but to dissolve it — to show that the questions it generates are not answerable because they are not genuine questions at all."
-  },
-  {
-    "id": "toward-a-philosophy-of-silence",
-    "title": "Toward a Philosophy of Silence",
-    "date": "2021-06-17",
-    "year": 2021,
-    "description": "An essay on silence as a philosophical category — not the mere absence of sound, but a mode of being that exceeds language and points toward what cannot be said.",
-    "pdf": "assets/pdfs/essays/toward-a-philosophy-of-silence.pdf",
-    "preview": "We are not comfortable with silence. The evidence is everywhere: in the compulsive filling of every pause with music, commentary, and notification; in the social anxiety that attends even a few seconds of stillness in conversation; in the extraordinary lengths to which we go to ensure that no moment is left unoccupied by sound and stimulation. We treat silence the way we treat darkness — as an absence to be filled, a deficiency to be remedied.\n\nThis essay argues that this discomfort is a philosophical mistake, one with moral and existential consequences. Silence is not merely the absence of sound. It is a mode of presence, a form of attention, a way of being-in-the-world that our noise-saturated culture has nearly lost the capacity to inhabit. To understand silence — to think carefully about what it is, what it offers, and why we flee from it — is to learn something important about language, about time, about what it means to be a creature who thinks.\n\nI begin with a phenomenology of silence: what does it feel like to be silent, and what does genuine silence disclose that noise conceals? I then turn to the silence of the other — the ethics of listening, of withholding speech, of making space for what cannot be said. Finally, I consider what the mystics and contemplatives have long understood: that the deepest forms of understanding may lie beyond language altogether, in a silence that is not poverty but plenitude."
+    "description": "A critical examination of Aristotle's account of action, desire, and the distinction between human rationality and animal life.",
+    "pdf": "assets/pdfs/essays/aristotle-paper.pdf",
+    "preview": "In order to understand Aristotle's account of action, it is essential to understand why humans — and the first principles that guide rational action — are inherently different from other animals. His account of action is heavily reliant on this distinction, which then guides his discussions of desire, imagination, flourishing, and the pursuit of knowledge. In the Nicomachean Ethics, Aristotle delineates different ways of living within humanity, but these distinctions are not central to this critique."
   }
 ]
